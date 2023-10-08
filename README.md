@@ -53,12 +53,12 @@
      
   </br>
    <div>      
-  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=dark" alt="vaidik's GitHub Stats"/>
+  <img height="200" width="450" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=dark" alt="vaidik's GitHub Stats"/>
        
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
+  <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
 
 
-  <img height="200" width="450" align="right" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>
+  <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>
 
 
 </div>
