@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" width="470px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 - 👨🏽‍💻 **Full-Stack Software Developer** currently looking for new opportunities that have remote culture.
 
@@ -53,8 +53,14 @@
      
   </br>
    <div>      
-  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=gruvbox" alt="vaidik's GitHub Stats"/>
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=gruvbox&layout=compact"/>
+  <img height="200" width="450" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=dark" alt="divyesh's GitHub Stats"/>
+       
+  <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
+
+
+  <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>
+
+
 </div>
 
 </br>
