@@ -24,7 +24,7 @@
   <img align="left" alt="Divyesh Radadiya" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
 
- <a email="divyeshradadiya21@gmail.com" text="divyeshradadiya21@gmail.com" />
+ <a email="divyeshradadiya21@gmail.com" > Divyeshradadiya21@gmail.com </a>
 
 </br>
  
