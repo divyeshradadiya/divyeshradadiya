@@ -58,7 +58,10 @@
   <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
 
 
-  <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>
+ <!-- <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>-->
+ <img height="200" width="450" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=divyeshradadiya&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true"/>
+
+ 
 
 
 </div>
