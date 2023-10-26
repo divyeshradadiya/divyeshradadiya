@@ -1,13 +1,12 @@
-<h1 align="center">
-  
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Divyesh!+;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
-</h1>
-
-<h3 align="center">The Software Developer from Hello World </h3>
-
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyeshradadiya&label=Profile%20views&color=0e75b6&style=flat" alt="Divyeshradadiya" /> </p>
 
+<h1 align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Divyesh!+;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
+
+<h3 align="center">The Software Developer from Hello World </h3>
 
 <p align="center">I'm a full stack software Developer and Singer. I enjoy making Web applications and Singing as they both require a lot of creativity, and there's no limits to what we can do. I learn to always learn more to become a better programmer with better version of myself.</p>
 
