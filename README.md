@@ -18,7 +18,7 @@
 
 - 👥 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽 I'm currently learning **AI - ML**, and **Devops**.
+- 🥷🏽 I'm currently learning **Devops**.
 
 
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/divyeshradadiya?tab=repositories). Feel free to open an issue in any project. that all are from my coding journey.
