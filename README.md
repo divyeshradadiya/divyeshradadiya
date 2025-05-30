@@ -14,11 +14,11 @@
 
 <img align="right" width="470px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-- 👨🏽‍💻 **Full-Stack Software Developer** currently looking for new opportunities that have remote culture.
+- 👨🏽‍💻 **Full-Stack Software Developer**.
 
 - 👥 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽 I'm currently learning **Devops**.
+- 🥷🏽 I'm currently learning **Devops & GenAI**.
 
 
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/divyeshradadiya?tab=repositories). Feel free to open an issue in any project. that all are from my coding journey.
