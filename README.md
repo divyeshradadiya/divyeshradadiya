@@ -32,6 +32,10 @@
  <a email="divyeshradadiya21@gmail.com" > Divyeshradadiya21@gmail.com </a>
 
 </br>
+
+<img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/divyeshradadiya?chart=3dbar&gap=0.6&scale=2&light=60&gradient=true&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&widget_size=large&dark=true"/>
+
+ </br>
  
  <h2>🛠 Languages & Tools<h2>
  <p align="left">
@@ -64,6 +68,8 @@
   <img height="200" width="450" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=dark" alt="divyesh's GitHub Stats"/>
        
   <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
+
+
 
 
  <!-- <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>-->
