@@ -4,9 +4,7 @@
 const NAME: &str = "Kartey";
 
 const DESCRIPTION: &str = "
-The System Builder
-@EmployLabs.ai
-Calisthenics athlete 🤸 | Artist 🪈 | Singer 💙 | Radhey radhe 🦚
+Coder 💻 | The Scalable System Builder 🧬 | Calisthenics athlete 🤸 | Artist 🪈 | Singer 💙 | Radhey radhe 🦚
 ";
 
 fn main() {
