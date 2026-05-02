@@ -1,84 +1,171 @@
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyeshradadiya&label=Profile%20views&color=0e75b6&style=flat" alt="Divyeshradadiya" /> </p>
+```rust
+// kartey.rs
 
-<h1 align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Kartey!+;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
-</h1>
+const NAME: &str = "Kartey";
 
-<h3 align="center"> Coder & Builder from Hello World </h3>
+const DESCRIPTION: &str = "
+The System Builder
+@EmployLabs.ai
+Calisthenics athlete 🤸 | Artist 🪈 | Singer 💙 | Radhey radhe 🦚
+";
 
-<p align="center">I'm a Intermediate Full-stack software Developer and Singer. I enjoy making Web applications and Singing as they both require a lot of creativity, and there's no limits to what we can do. I learn to always learn more to become a better programmer with better version of myself.</p>
+fn main() {
+    System::boot();
+}
 
----
+// ─────────────────────────────────────────
 
-<img align="right" width="470px" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+struct System;
 
-- 👨🏽‍💻 **Full-Stack Software Developer**.
+impl System {
+    fn boot() {
+        Identity::init();
+        About::init();
+        Systems::init();
+        Engineering::init();
+        Now::init();
+    }
+}
 
-- 👥 I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
+// ─────────────────────────────────────────
 
-- 🥷🏽 I'm currently learning **DevSecOps & AI/ML**.
+struct Identity;
 
+impl Identity {
+    fn init() {
+        Runtime::log(NAME);
+        Runtime::log(DESCRIPTION);
+    }
+}
 
-- 💻 You can view all **my projects** by clicking on this [link](https://github.com/divyeshradadiya?tab=repositories). Feel free to open an issue in any project. that all are from my coding journey.
+// ─────────────────────────────────────────
 
- <h2>📲  Let's Connect<h2>
+struct About;
 
- <a href="https://www.linkedin.com/in/divyesh-radadiya-7a236425a/">
-  <img align="left" alt="Divyesh Radadiya" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
- </a>
+impl About {
+    fn init() {
+        let focus = "AI/ML systems + optimization";
+        let context = [
+            "low latency systems",
+            "unstructured data handling",
+            "scalable architectures"
+        ];
 
- <a email="divyeshradadiya21@gmail.com" > Divyeshradadiya21@gmail.com </a>
+        Runtime::log(focus);
+        Runtime::log_many(&context);
+    }
+}
 
-</br>
+// ─────────────────────────────────────────
 
-<img height="300" width="1275" align="center" src="https://contribution.catsjuice.com/_/divyeshradadiya?chart=3dbar&gap=0.6&scale=2&light=60&gradient=true&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&widget_size=large&dark=true"/>
+struct Systems;
 
- </br>
- 
- <h2>🛠 Languages & Tools<h2>
- <p align="left">
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img height="35" width="50" src="https://react-bootstrap.netlify.app/img/logo.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+impl Systems {
 
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img height="37" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-   
+    fn init() {
+        Self::pipeline();
+        Self::distributed();
+        Self::ai_layer();
+        Self::data_layer();
+    }
 
- </p>
-     
-  </br>
-   <div>      
-  <img height="200" width="450" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyeshradadiya&show_icons=true&theme=dark" alt="divyesh's GitHub Stats"/>
-       
-  <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshradadiya&theme=dark&layout=compact"/>
+    fn pipeline() {
+        let latency_before = 1200;
+        let latency_after = 180;
+        let stability = "handles ~10x burst traffic";
 
+        Runtime::metric("pipeline_latency_ms", latency_before, latency_after);
+        Runtime::log(stability);
+    }
 
+    fn distributed() {
+        let reliability = "no full-system crash under partial failure";
+        let strategy = "retry + backpressure";
 
+        Runtime::log(reliability);
+        Runtime::log(strategy);
+    }
 
- <!-- <img height="300" width="950" align="center" src="https://leetcard.jacoblin.cool/divyeshradadiya1?theme=dark&font=Poly&ext=heatmap"/>-->
- <!-- <img height="200" width="850" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=divyeshradadiya&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true"/> -->
+    fn ai_layer() {
+        let improvements = [
+            "structured output enforcement",
+            "reduced inconsistent responses",
+            "token usage optimization"
+        ];
 
- 
+        Runtime::log_many(&improvements);
+    }
 
+    fn data_layer() {
+        let results = [
+            "improved cache hit rate",
+            "reduced redundant compute"
+        ];
 
-</div>
+        Runtime::log_many(&results);
+    }
+}
 
-</br>
+// ─────────────────────────────────────────
 
+struct Engineering;
+
+impl Engineering {
+    fn init() {
+        let principles = [
+            "design for scale first",
+            "optimize critical paths",
+            "keep systems observable"
+        ];
+
+        Runtime::log_many(&principles);
+    }
+}
+
+// ─────────────────────────────────────────
+
+struct Now;
+
+impl Now {
+    fn init() {
+        let focus = [
+            "ai/ml pipeline optimization",
+            "latency / cost / accuracy improvements",
+            "ai-native infrastructure"
+        ];
+
+        Runtime::log_many(&focus);
+    }
+}
+
+// ─────────────────────────────────────────
+
+struct Contact;
+
+impl Contact {
+    const GITHUB: &'static str = "https://github.com/divyeshradadiya";
+    const LINKEDIN: &'static str = "https://www.linkedin.com/in/kartey/";
+    const EMAIL: &'static str = "divyeshradadiya21@gmail.com";
+}
+
+// ─────────────────────────────────────────
+
+struct Runtime;
+
+impl Runtime {
+
+    fn log(message: &str) {
+        println!("{}", message);
+    }
+
+    fn log_many(messages: &[&str]) {
+        for m in messages {
+            println!("{}", m);
+        }
+    }
+
+    fn metric(name: &str, before: i32, after: i32) {
+        println!("{}: {} -> {}", name, before, after);
+    }
+}
+```
